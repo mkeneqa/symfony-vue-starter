@@ -1,5 +1,7 @@
 <template>
-    $END$
+    <div>
+        <h1>This is about Vue!</h1>
+    </div>
 </template>
 
 <script>

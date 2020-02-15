@@ -20,6 +20,9 @@
                 <router-link class="nav-item" tag="li" :to="{path: 'home'}" active-class="active">
                     <a class="nav-link">Home</a>
                 </router-link>
+                <router-link class="nav-item" tag="li" :to="{path: 'about'}" active-class="active">
+                    <a class="nav-link">About</a>
+                </router-link>
             </ul>
         </div>
     </nav>
